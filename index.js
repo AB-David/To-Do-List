@@ -1,15 +1,15 @@
 function App() {
 	const [todos, setTodos] = React.useState([
 		{
-			text: "Code in React",
+			text: "≡ Code in React",
 			isCompleted: false,
 		},
 		{
-			text: "Rinse",
+			text: "≡ Rinse",
 			isCompleted: false,
 		},
 		{
-			text: "Repeat",
+			text: "≡ Repeat",
 			isCompleted: false,
 		},
 	]);
