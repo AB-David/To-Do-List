@@ -26,7 +26,7 @@ h1 {
 }
 
 .todo-list{
-    background: #fdf589;
+    background: #f5efa1;
     border-radius: 10px;
     padding: 15px;
     max-width: 400px;
@@ -37,7 +37,7 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     color: rgb(71, 71, 71);
     text-align: center;
-    background: #fff;
+    background: #f5efa1;
     box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
     padding: 3px 10px;
     font-size: 20px;
